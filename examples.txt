@@ -1,0 +1,255 @@
+<!-- about page -->
+<p>
+  Hello, I am John Doe and I am a web developer. I live and work in
+  somewhere warm. I spend most of my day, experimenting with HTML, CSS and
+  JavaScript (and its endless list of frameworks). I enjoy coding and the
+  challenge of learning something new everyday. You can also find me at youtube
+  channel
+  <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA"
+    >coding addict</a
+  >
+</p>
+
+<!-- contact page-->
+<p>
+  If you are looking to get ahold of me, you can send me an email at
+  <a href="mailto:email@email.com">@your_email</a>
+</p>
+<p>
+  You can also reach me on Twitter at
+  <a href="https://www.twitter.com">@your_social_media </a>
+</p>
+
+  <!-- single  service-->
+        <article class="service">
+          <!-- fab -->
+          <i class="fab fa-sketch service-icon"></i>
+          <h4>web design</h4>
+          <div class="underline"></div>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique
+            at repellendus eius omnis asperiores laborum reprehenderit quis
+            pariatur quidem placeat.
+          </p>
+        </article>
+        <!-- end of single service -->
+        <!-- single  service-->
+        <article class="service">
+          <!-- fab -->
+          <i class="fab fa-android service-icon"></i>
+          <h4>app design</h4>
+          <div class="underline"></div>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique
+            at repellendus eius omnis asperiores laborum reprehenderit quis
+            pariatur quidem placeat.
+          </p>
+        </article>
+        <!-- end of single service -->
+
+
+         <!-- timeline -->
+    <section class="section timeline">
+      <!-- section-title -->
+      <div class="section-title">
+        <h2>timeline</h2>
+        <div class="underline"></div>
+      </div>
+      <!-- end of section title -->
+      <div class="section-center timeline-center">
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2020</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nihil
+            voluptatibus exercitationem sapiente odit incidunt tempora facere
+            aliquam. Adipisci, asperiores.
+          </p>
+          <span class="number">
+            1
+          </span>
+        </article>
+        <!-- end of single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2019</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nihil
+            voluptatibus exercitationem sapiente odit incidunt tempora facere
+            aliquam. Adipisci, asperiores.
+          </p>
+          <span class="number">
+            2
+          </span>
+        </article>
+        <!-- end of single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2018</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nihil
+            voluptatibus exercitationem sapiente odit incidunt tempora facere
+            aliquam. Adipisci, asperiores.
+          </p>
+          <span class="number">
+            3
+          </span>
+        </article>
+        <!-- end of single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2017</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nihil
+            voluptatibus exercitationem sapiente odit incidunt tempora facere
+            aliquam. Adipisci, asperiores.
+          </p>
+          <span class="number">
+            4
+          </span>
+        </article>
+        <!-- end of single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2016</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nihil
+            voluptatibus exercitationem sapiente odit incidunt tempora facere
+            aliquam. Adipisci, asperiores.
+          </p>
+          <span class="number">
+            5
+          </span>
+        </article>
+        <!-- end of single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2015</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nihil
+            voluptatibus exercitationem sapiente odit incidunt tempora facere
+            aliquam. Adipisci, asperiores.
+          </p>
+          <span class="number">
+            6
+          </span>
+        </article>
+        <!-- end of single timeline item -->
+      </div>
+    </section>
+    <!--end of  timeline -->
+    <!-- blog -->
+    <section class="section blog">
+      <div class="section-title">
+        <h2>blog</h2>
+        <div class="underline"></div>
+      </div>
+      <!-- blog center -->
+      <div class="section-center blog-center">
+        <!-- single article -->
+        <article>
+          <div class="card">
+            <!-- card front -->
+            <div class="card-side card-front">
+              <img src="./images/project-1.jpeg" alt="" />
+              <div class="card-info">
+                <h4>article title</h4>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
+                  sunt odit repellat provident, aperiam corporis! Excepturi
+                  eveniet saepe praesentium deleniti.
+                </p>
+                <div class="card-footer">
+                  <img src="./images/hero-img-small.jpeg" alt="author image" />
+                  <p>7 min read</p>
+                </div>
+              </div>
+            </div>
+            <!-- card back -->
+            <div class="card-side card-back">
+              <button class="btn">read more</button>
+            </div>
+          </div>
+        </article>
+        <!-- end of single article -->
+        <!-- single article -->
+        <article>
+          <div class="card">
+            <!-- card front -->
+            <div class="card-side card-front">
+              <img src="./images/project-2.jpeg" alt="" />
+              <div class="card-info">
+                <h4>article title</h4>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
+                  sunt odit repellat provident, aperiam corporis! Excepturi
+                  eveniet saepe praesentium deleniti.
+                </p>
+                <div class="card-footer">
+                  <img src="./images/hero-img-small.jpeg" alt="author image" />
+                  <p>7 min read</p>
+                </div>
+              </div>
+            </div>
+            <!-- card back -->
+            <div class="card-side card-back">
+              <button class="btn">read more</button>
+            </div>
+          </div>
+        </article>
+        <!-- end of single article -->
+        <!-- single article -->
+        <article>
+          <div class="card">
+            <!-- card front -->
+            <div class="card-side card-front">
+              <img src="./images/project-3.jpeg" alt="" />
+              <div class="card-info">
+                <h4>article title</h4>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
+                  sunt odit repellat provident, aperiam corporis! Excepturi
+                  eveniet saepe praesentium deleniti.
+                </p>
+                <div class="card-footer">
+                  <img src="./images/hero-img-small.jpeg" alt="author image" />
+                  <p>7 min read</p>
+                </div>
+              </div>
+            </div>
+            <!-- card back -->
+            <div class="card-side card-back">
+              <button class="btn">read more</button>
+            </div>
+          </div>
+        </article>
+        <!-- end of single article -->
+        <!-- single article -->
+        <article>
+          <div class="card">
+            <!-- card front -->
+            <div class="card-side card-front">
+              <img src="./images/project-4.jpeg" alt="" />
+              <div class="card-info">
+                <h4>article title</h4>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
+                  sunt odit repellat provident, aperiam corporis! Excepturi
+                  eveniet saepe praesentium deleniti.
+                </p>
+                <div class="card-footer">
+                  <img src="./images/hero-img-small.jpeg" alt="author image" />
+                  <p>7 min read</p>
+                </div>
+              </div>
+            </div>
+            <!-- card back -->
+            <div class="card-side card-back">
+              <button class="btn">read more</button>
+            </div>
+          </div>
+        </article>
+        <!-- end of single article -->
+      </div>
+    </section>
+    <!-- end of blog -->
